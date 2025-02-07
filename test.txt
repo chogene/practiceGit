@@ -12,3 +12,5 @@ git practice trying to see if I remember properly.
 
 git practice again
 and again and again....
+
+just doing pushes so i don't forget
